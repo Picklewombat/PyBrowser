@@ -1,0 +1,1 @@
+print("PyBrowser is a free open source browser for hosting and searching for python projects. You can host projects on it for free in python. You can search for keywords or site urls. For an example, try example.com, or the keyword ""example"" ")
