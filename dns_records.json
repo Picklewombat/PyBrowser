@@ -1,4 +1,10 @@
 {
-    "pybrowser.dev": "pybrowser.py",
-    "example.com": "example.py"
+    "pybrowser.dev": {
+        "file": "pybrowser.py",
+        "keywords": ["browser", "python", "dns"]
+    },
+    "example.com": {
+        "file": "example.py",
+        "keywords": ["example", "test", "sample"]
+    }
 }
