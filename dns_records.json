@@ -1,7 +1,7 @@
 {
     "pybrowser.dev": {
         "file": "pybrowser.py",
-        "keywords": ["browser", "python", "dns"]
+        "keywords": ["browser", "python", "dns", "test"]
     },
     "example.com": {
         "file": "example.py",
