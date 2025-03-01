@@ -6,7 +6,7 @@
     "example.com": {
         "file": "example.py",
         "keywords": ["example", "test", "sample"]
-    }
+    },
     "notes.text": {
         "file": "notes.py",
         "keywords": ["text", "note", "note", "writing", "write"
